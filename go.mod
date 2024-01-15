@@ -1,4 +1,4 @@
-module github.com/liuzl/gocc
+module github.com/barkingdog-ai/gocc
 
 go 1.16
 
