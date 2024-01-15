@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/liuzl/gocc"
-	"github.com/liuzl/goutil"
+	"github.com/barkingdog-ai/gocc"
+	"github.com/barkingdog-ai/goutil"
 )
 
 var (
