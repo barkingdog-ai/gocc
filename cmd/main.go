@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/barkingdog-ai/gocc"
-	"github.com/barkingdog-ai/goutil"
+	"zliu.org/goutil"
 )
 
 var (
